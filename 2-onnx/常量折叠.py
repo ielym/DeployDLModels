@@ -1,0 +1,1 @@
+# polygraphy surgeon sanitize model.onnx --fold-constants -o folded.onnx
